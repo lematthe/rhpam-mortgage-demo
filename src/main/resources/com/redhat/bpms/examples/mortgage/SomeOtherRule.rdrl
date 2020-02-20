@@ -1,0 +1,9 @@
+package com.redhat.bpms.examples.mortgage;
+
+import java.lang.Number;
+
+rule "SomeOtherRule"
+	dialect "mvel"
+	when
+	then
+end
